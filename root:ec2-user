@@ -1,0 +1,6 @@
+Host github.com 
+    HostName github.com 
+    User git 
+    IdentityFile ~/.ssh/slackgirl92 
+    UserKnownHostsFile ~/.ssh/known_hosts 
+    IdentitiesOnly yes
